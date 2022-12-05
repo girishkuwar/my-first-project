@@ -1,0 +1,7 @@
+p {
+    font-size: 2vmin;
+    color: gray;
+}
+.strike {
+    text-decoration: line-through;
+}
